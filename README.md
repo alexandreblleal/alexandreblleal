@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexandreblleal
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning phyton
-- 💞️ I’m looking to collaborate on phyton projects
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me: falecom@alexandreleal.com
 
 <!---
